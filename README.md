@@ -1,5 +1,5 @@
-# Multilingual LLM Brand-Safety Rating Dataset
-
+# Multilingual Disparities in LLM-Based Safety Judgments
+This repository contains code, prompts, and benchmark data for our paper, “Multilingual Disparities in LLM-Based Safety Judgments: Evidence from Brand Safety Applications.”
 
 ## Contents
 
