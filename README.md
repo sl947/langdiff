@@ -1,5 +1,5 @@
-# Multilingual Disparities in LLM-Based Safety Judgments
-This repository contains code, prompts, and benchmark data for our paper, “Multilingual Disparities in LLM-Based Safety Judgments: Evidence from Brand Safety Applications.”
+# Multilingual Disparities in LLM-Based Safety Judgments: Evidence from Brand Safety Applications.
+This repository contains code, prompts, and benchmark data for paper, “Multilingual Disparities in LLM-Based Safety Judgments: Evidence from Brand Safety Applications.”
 
 ## Contents
 
